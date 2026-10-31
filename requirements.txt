@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy
+plotly>=5.0
+scipy
+jinja2
+openpyxl
+ipywidgets

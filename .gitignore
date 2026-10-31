@@ -1,0 +1,7 @@
+data/*.csv
+!data/sp500_companies.csv
+!data/sp500_index.csv
+sp500_report.html
+sp500_report.xlsx
+__pycache__/
+.DS_Store
